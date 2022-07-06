@@ -424,7 +424,12 @@
             "author": "くらと",
             "name": "獣幽霊",
             "resource": "くらと_獣幽霊.png"
-        },        
+        },  
+        {
+            "author": "くらと",
+            "name": "Test",
+            "resource": "くらと_Test.png"
+        },               
         {
             "author": "にぢる",
             "name": "不審者",
