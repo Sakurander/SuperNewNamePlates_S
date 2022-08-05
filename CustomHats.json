@@ -1,6 +1,5 @@
 ﻿{
-    "hats": [
-        {
+    "hats": [{
             "name": "Gaming hat",
             "author": "Wifi/main",
             "package": "Hat_SNR",
@@ -8,16 +7,6 @@
             "resource": "GamingHat.png",
             "reshasha": "537bba3421fa89c3fb648f158fb86dwe",
             "climbresource": "GamingHat_climb.png",
-            "reshashc": "ce1b148a5d4a56ac763dd85fe4fccc46"
-        },
-        {
-            "name": "Leaf hat",
-            "author": "Kouyou",
-            "package": "Hat_SNR",
-            "condition": "None",
-            "resource": "Leafhat.png",
-            "reshasha": "537dba3421fa89c3fb648f158fdew86b",
-            "climbresource": "Leafhat_climb.png",
             "reshashc": "ce1b148a5d4a56ac763dd85fe4fccc46"
         },
         {
@@ -84,13 +73,13 @@
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         },
         {
-            "name": "おにぎり",
+            "name": "おにぎり(碧月)",
             "author": "碧月",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "おにぎり.png",
+            "resource": "おにぎり_碧月.png",
             "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
-            "climbresource": "おにぎり_climb.png",
+            "climbresource": "おにぎり_碧月_climb.png",
             "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
         },
         {
@@ -115,7 +104,7 @@
             "adaptive": true,
             "name": "九尾の狐",
             "author": "セオノ",
-            "package": "Hat_SNR",
+            "package": "SeonoCollection",
             "condition": "None",
             "resource": "kyubi_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
@@ -128,7 +117,7 @@
             "adaptive": true,
             "name": "魔女",
             "author": "セオノ",
-            "package": "Hat_SNR",
+            "package": "SeonoCollection",
             "condition": "None",
             "resource": "witch_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
@@ -138,7 +127,7 @@
         {
             "name": "ドラゴン",
             "author": "セオノ",
-            "package": "Hat_SNR",
+            "package": "SeonoCollection",
             "condition": "None",
             "resource": "dragonSNR.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
@@ -151,7 +140,7 @@
             "adaptive": true,
             "name": "VTuber風衣装",
             "author": "セオノ",
-            "package": "Hat_SNR",
+            "package": "SeonoCollection",
             "condition": "None",
             "resource": "vtuberstyle_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
@@ -161,7 +150,7 @@
         {
             "name": "へっぽこ天使",
             "author": "セオノ",
-            "package": "Hat_SNR",
+            "package": "SeonoCollection",
             "condition": "None",
             "resource": "hpktenshi.png",
             "climbresource": "hpktenshi_climb.png",
@@ -319,11 +308,11 @@
         },
         {
             "adaptive": true,
-            "name": "コーヒー",
+            "name": "コーヒー(こめこのぱん)",
             "author": "こめこのぱん",
             "package": "Hat_SNR",
             "condition": "None",
-            "resource": "coffee_adaptive.png",
+            "resource": "coffee_Rice_adaptive.png",
             "reshasha": "537dba3421fa;io;fb648f15nytgbw86b",
             "climbresource": "",
             "reshashc": "ce1b148a5d4awrfewsfgsggseg4fccc46"
@@ -332,7 +321,7 @@
             "adaptive": true,
             "name": "柴犬",
             "author": "セオノ",
-            "package": "Hat_SNR",
+            "package": "SeonoCollection",
             "condition": "None",
             "resource": "shiba_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
@@ -345,7 +334,7 @@
             "adaptive": true,
             "name": "魔術師",
             "author": "セオノ",
-            "package": "Hat_SNR",
+            "package": "SeonoCollection",
             "condition": "None",
             "resource": "Conjurer_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
@@ -363,6 +352,78 @@
             "resource": "Ayashii.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
             "climbresource": "Ayashii_back.png",
+            "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "クノイチ",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "None",
+            "resource": "kunoichi_adaptive.png",
+            "reshasha": "",
+            "climbresource": "kunoichi_climb.png",
+            "reshashb": ""
+        },
+        {
+            "adaptive": true,
+            "name": "メイド(ミニ)",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "None",
+            "resource": "maidmini_adaptive.png",
+            "reshasha": "",
+            "climbresource": "maidmini_climb.png",
+            "reshashb": ""
+        },
+        {
+            "adaptive": true,
+            "name": "たこ焼き",
+            "author": "碧月",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "碧月_たこ焼き.png",
+            "reshasha": "",
+            "climbresource": "碧月-たこ焼き-climb.png",
+            "reshashb": ""
+        },
+        {
+            "adaptive": true,
+            "name": "ドラゴンColor",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "None",
+            "resource": "セオノ_dragonSNRcolor_adaptive.png",
+            "reshasha": "",
+            "backresource": "セオノ_dragonSNRcolor_back.png",
+            "reshashb": "",
+            "climbresource": "セオノ_dragonSNRcolor_climb.png",
+            "reshashc": ""
+        },
+        {
+            "adaptive": true,
+            "name": "魔術師Dark",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "None",
+            "resource": "セオノ_ConjurerDark_adaptive.png",
+            "reshasha": "",
+            "backresource": "セオノ_ConjurerDark_back.png",
+            "reshashb": "",
+            "climbresource": "セオノ_ConjurerDark_climb.png",
+            "reshashc": ""
+        },
+        {
+            "adaptive": true,
+            "name": "狼",
+            "author": "セオノ",
+            "package": "SeonoCollection",
+            "condition": "None",
+            "resource": "wolfSON_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "backresource": "wolfSON_back.png",
+            "reshashb": "cac9f7f6c91a28136aeac63e32f4fd7f",
+            "climbresource": "wolfSON_climb.png",
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
         }
     ]
