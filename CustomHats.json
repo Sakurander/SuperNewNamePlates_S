@@ -1,5 +1,6 @@
 ﻿{
-    "hats": [{
+    "hats": [
+        {
             "name": "Gaming hat",
             "author": "Wifi/main",
             "package": "Hat_SNR",
@@ -449,6 +450,103 @@
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
             "climbresource": "miku_climb.png",
             "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"
-        }        
+        },
+        {
+            "adaptive": true,
+            "name": "赤ずきん",
+            "author": "碧月",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Miduki_Akazukin_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "climbresource": "Miduki_Akazukin_climb.png",
+            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "猫型パーカー",
+            "author": "碧月",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Miduki_猫型パーカー_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "climbresource": "Miduki_猫型パーカー_climb.png",
+            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "うさぎパーカー",
+            "author": "碧月",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Miduki_うさぎパーカー_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "climbresource": "Miduki_うさぎパーカー_climb.png",
+            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "ハムスタークルー",
+            "author": "碧月",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Miduki_ハムスタークルー_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "climbresource": "Miduki_ハムスタークルー_climb.png",
+            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "たまごの殻",
+            "author": "碧月",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Miduki_たまごの殻_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "climbresource": "Miduki_たまごの殻_climb.png",
+            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "サッカー",
+            "author": "碧月",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Miduki_サッカー_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b"
+        },
+        {
+            "adaptive": true,
+            "name": "バスケ",
+            "author": "碧月",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Miduki_バスケ_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "climbresource": "Miduki_バスケ_climb.png",
+            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "勇者",
+            "author": "碧月",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Miduki_勇者_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "climbresource": "Miduki_勇者_climb.png",
+            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        },
+        {
+            "adaptive": true,
+            "name": "わたあめ",
+            "author": "碧月",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "Miduki_わたあめ_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "climbresource": "Miduki_わたあめ_climb.png",
+            "reshashb": "ce1b148akutyw:::wsfgsggseg4fccc46"
+        }
     ]
 }
