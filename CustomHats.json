@@ -532,6 +532,17 @@
             "condition": "None",
             "resource": "matoSON_adaptive.png",
             "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b"
+        },
+        {
+            "adaptive": true,
+            "name": "侍",
+            "author": "ダル",
+            "package": "Hat_SNR",
+            "condition": "None",
+            "resource": "DaruHat_Samurai_adaptive.png",
+            "reshasha": "537dbdtrhrfrgio;fb648f15nytgbw86b",
+            "climbresource": "DaruHat_Samurai_adaptive_climb.png",
+            "reshashc": "ce1b148akutyw:::wsfgsggseg4fccc46"            
         }
     ]
 }
